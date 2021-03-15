@@ -1,0 +1,1052 @@
+{
+    "codes": [
+        {
+            "cPais": "132",
+            "name": "AFEGANISTAO"
+        },
+        {
+            "cPais": "153",
+            "name": "ALAND, ILHAS"
+        },
+        {
+            "cPais": "175",
+            "name": "ALBANIA, REPUBLICA  DA"
+        },
+        {
+            "cPais": "200",
+            "name": "CURACAO"
+        },
+        {
+            "cPais": "230",
+            "name": "ALEMANHA"
+        },
+        {
+            "cPais": "310",
+            "name": "BURKINA FASO"
+        },
+        {
+            "cPais": "370",
+            "name": "ANDORRA"
+        },
+        {
+            "cPais": "400",
+            "name": "ANGOLA"
+        },
+        {
+            "cPais": "418",
+            "name": "ANGUILLA"
+        },
+        {
+            "cPais": "420",
+            "name": "ANTARTICA"
+        },
+        {
+            "cPais": "434",
+            "name": "ANTIGUA E BARBUDA"
+        },
+        {
+            "cPais": "477",
+            "name": "ANTILHAS HOLANDESAS"
+        },
+        {
+            "cPais": "531",
+            "name": "ARABIA SAUDITA"
+        },
+        {
+            "cPais": "590",
+            "name": "ARGELIA"
+        },
+        {
+            "cPais": "639",
+            "name": "ARGENTINA"
+        },
+        {
+            "cPais": "647",
+            "name": "ARMENIA, REPUBLICA DA"
+        },
+        {
+            "cPais": "655",
+            "name": "ARUBA"
+        },
+        {
+            "cPais": "698",
+            "name": "AUSTRALIA"
+        },
+        {
+            "cPais": "728",
+            "name": "AUSTRIA"
+        },
+        {
+            "cPais": "736",
+            "name": "AZERBAIJAO, REPUBLICA DO"
+        },
+        {
+            "cPais": "779",
+            "name": "BAHAMAS, ILHAS"
+        },
+        {
+            "cPais": "809",
+            "name": "BAHREIN, ILHAS"
+        },
+        {
+            "cPais": "817",
+            "name": "BANGLADESH"
+        },
+        {
+            "cPais": "833",
+            "name": "BARBADOS"
+        },
+        {
+            "cPais": "850",
+            "name": "BELARUS, REPUBLICA DA"
+        },
+        {
+            "cPais": "876",
+            "name": "BELGICA"
+        },
+        {
+            "cPais": "884",
+            "name": "BELIZE"
+        },
+        {
+            "cPais": "906",
+            "name": "BERMUDAS"
+        },
+        {
+            "cPais": "930",
+            "name": "MIANMAR (BIRMANIA)"
+        },
+        {
+            "cPais": "973",
+            "name": "BOLIVIA, ESTADO PLURINACIONAL DA"
+        },
+        {
+            "cPais": "981",
+            "name": "BOSNIA-HERZEGOVINA (REPUBLICA DA)"
+        },
+        {
+            "cPais": "990",
+            "name": "BONAIRE"
+        },
+        {
+            "cPais": "1015",
+            "name": "BOTSUANA"
+        },
+        {
+            "cPais": "1023",
+            "name": "BOUVET, ILHA"
+        },
+        {
+            "cPais": "1058",
+            "name": "BRASIL"
+        },
+        {
+            "cPais": "1082",
+            "name": "BRUNEI"
+        },
+        {
+            "cPais": "1112",
+            "name": "BULGARIA, REPUBLICA DA"
+        },
+        {
+            "cPais": "1155",
+            "name": "BURUNDI"
+        },
+        {
+            "cPais": "1198",
+            "name": "BUTAO"
+        },
+        {
+            "cPais": "1279",
+            "name": "CABO VERDE, REPUBLICA DE"
+        },
+        {
+            "cPais": "1376",
+            "name": "CAYMAN, ILHAS"
+        },
+        {
+            "cPais": "1414",
+            "name": "CAMBOJA"
+        },
+        {
+            "cPais": "1457",
+            "name": "CAMAROES"
+        },
+        {
+            "cPais": "1490",
+            "name": "CANADA"
+        },
+        {
+            "cPais": "1504",
+            "name": "GUERNSEY, ILHA DO CANAL (INCLUI ALDERNEY E SARK)"
+        },
+        {
+            "cPais": "1508",
+            "name": "JERSEY, ILHA DO CANAL"
+        },
+        {
+            "cPais": "1511",
+            "name": "CANARIAS, ILHAS"
+        },
+        {
+            "cPais": "1538",
+            "name": "CAZAQUISTAO, REPUBLICA DO"
+        },
+        {
+            "cPais": "1546",
+            "name": "CATAR"
+        },
+        {
+            "cPais": "1589",
+            "name": "CHILE"
+        },
+        {
+            "cPais": "1600",
+            "name": "CHINA, REPUBLICA POPULAR"
+        },
+        {
+            "cPais": "1619",
+            "name": "FORMOSA (TAIWAN)"
+        },
+        {
+            "cPais": "1635",
+            "name": "CHIPRE"
+        },
+        {
+            "cPais": "1651",
+            "name": "COCOS(KEELING),ILHAS"
+        },
+        {
+            "cPais": "1694",
+            "name": "COLOMBIA"
+        },
+        {
+            "cPais": "1732",
+            "name": "COMORES, ILHAS"
+        },
+        {
+            "cPais": "1775",
+            "name": "CONGO"
+        },
+        {
+            "cPais": "1830",
+            "name": "COOK, ILHAS"
+        },
+        {
+            "cPais": "1872",
+            "name": "COREIA (DO NORTE), REP.POP.DEMOCRATICA"
+        },
+        {
+            "cPais": "1902",
+            "name": "COREIA (DO SUL), REPUBLICA DA"
+        },
+        {
+            "cPais": "1937",
+            "name": "COSTA DO MARFIM"
+        },
+        {
+            "cPais": "1953",
+            "name": "CROACIA (REPUBLICA DA)"
+        },
+        {
+            "cPais": "1961",
+            "name": "COSTA RICA"
+        },
+        {
+            "cPais": "1988",
+            "name": "COVEITE"
+        },
+        {
+            "cPais": "1988",
+            "name": "KUWAIT"
+        },
+        {
+            "cPais": "1996",
+            "name": "CUBA"
+        },
+        {
+            "cPais": "2003",
+            "name": "CURACAO"
+        },
+        {
+            "cPais": "2291",
+            "name": "BENIN"
+        },
+        {
+            "cPais": "2321",
+            "name": "DINAMARCA"
+        },
+        {
+            "cPais": "2356",
+            "name": "DOMINICA,ILHA"
+        },
+        {
+            "cPais": "2399",
+            "name": "EQUADOR"
+        },
+        {
+            "cPais": "2402",
+            "name": "EGITO"
+        },
+        {
+            "cPais": "2437",
+            "name": "ERITREIA"
+        },
+        {
+            "cPais": "2445",
+            "name": "EMIRADOS ARABES UNIDOS"
+        },
+        {
+            "cPais": "2453",
+            "name": "ESPANHA"
+        },
+        {
+            "cPais": "2461",
+            "name": "ESLOVENIA, REPUBLICA DA"
+        },
+        {
+            "cPais": "2470",
+            "name": "ESLOVACA, REPUBLICA"
+        },
+        {
+            "cPais": "2496",
+            "name": "ESTADOS UNIDOS"
+        },
+        {
+            "cPais": "2518",
+            "name": "ESTONIA, REPUBLICA DA"
+        },
+        {
+            "cPais": "2534",
+            "name": "ETIOPIA"
+        },
+        {
+            "cPais": "2550",
+            "name": "FALKLAND (ILHAS MALVINAS)"
+        },
+        {
+            "cPais": "2593",
+            "name": "FEROE, ILHAS"
+        },
+        {
+            "cPais": "2674",
+            "name": "FILIPINAS"
+        },
+        {
+            "cPais": "2712",
+            "name": "FINLANDIA"
+        },
+        {
+            "cPais": "2755",
+            "name": "FRANCA"
+        },
+        {
+            "cPais": "2810",
+            "name": "GABAO"
+        },
+        {
+            "cPais": "2852",
+            "name": "GAMBIA"
+        },
+        {
+            "cPais": "2895",
+            "name": "GANA"
+        },
+        {
+            "cPais": "2917",
+            "name": "GEORGIA, REPUBLICA DA"
+        },
+        {
+            "cPais": "2925",
+            "name": "ILHAS GEORGIA DO SUL E SANDWICH DO SUL"
+        },
+        {
+            "cPais": "2933",
+            "name": "GIBRALTAR"
+        },
+        {
+            "cPais": "2976",
+            "name": "GRANADA"
+        },
+        {
+            "cPais": "3018",
+            "name": "GRECIA"
+        },
+        {
+            "cPais": "3050",
+            "name": "GROENLANDIA"
+        },
+        {
+            "cPais": "3093",
+            "name": "GUADALUPE"
+        },
+        {
+            "cPais": "3131",
+            "name": "GUAM"
+        },
+        {
+            "cPais": "3174",
+            "name": "GUATEMALA"
+        },
+        {
+            "cPais": "3212",
+            "name": "GUERNSEY, ILHA DO CANAL (INCLUI ALDERNEY E SARK)"
+        },
+        {
+            "cPais": "3255",
+            "name": "GUIANA FRANCESA"
+        },
+        {
+            "cPais": "3298",
+            "name": "GUINE"
+        },
+        {
+            "cPais": "3310",
+            "name": "GUINE-EQUATORIAL"
+        },
+        {
+            "cPais": "3344",
+            "name": "GUINE-BISSAU"
+        },
+        {
+            "cPais": "3379",
+            "name": "GUIANA"
+        },
+        {
+            "cPais": "3417",
+            "name": "HAITI"
+        },
+        {
+            "cPais": "3433",
+            "name": "ILHA HEARD E ILHAS MCDONALD"
+        },
+        {
+            "cPais": "3450",
+            "name": "HONDURAS"
+        },
+        {
+            "cPais": "3514",
+            "name": "HONG KONG"
+        },
+        {
+            "cPais": "3557",
+            "name": "HUNGRIA, REPUBLICA DA"
+        },
+        {
+            "cPais": "3573",
+            "name": "IEMEN"
+        },
+        {
+            "cPais": "3595",
+            "name": "MAN, ILHA DE"
+        },
+        {
+            "cPais": "3599",
+            "name": "BONAIRE"
+        },
+        {
+            "cPais": "3611",
+            "name": "INDIA"
+        },
+        {
+            "cPais": "3654",
+            "name": "INDONESIA"
+        },
+        {
+            "cPais": "3697",
+            "name": "IRAQUE"
+        },
+        {
+            "cPais": "3727",
+            "name": "IRA, REPUBLICA ISLAMICA DO"
+        },
+        {
+            "cPais": "3751",
+            "name": "IRLANDA"
+        },
+        {
+            "cPais": "3794",
+            "name": "ISLANDIA"
+        },
+        {
+            "cPais": "3832",
+            "name": "ISRAEL"
+        },
+        {
+            "cPais": "3867",
+            "name": "ITALIA"
+        },
+        {
+            "cPais": "3913",
+            "name": "JAMAICA"
+        },
+        {
+            "cPais": "3930",
+            "name": "JERSEY, ILHA DO CANAL"
+        },
+        {
+            "cPais": "3964",
+            "name": "JOHNSTON, ILHAS"
+        },
+        {
+            "cPais": "3999",
+            "name": "JAPAO"
+        },
+        {
+            "cPais": "4030",
+            "name": "JORDANIA"
+        },
+        {
+            "cPais": "4111",
+            "name": "KIRIBATI"
+        },
+        {
+            "cPais": "4200",
+            "name": "LAOS, REP.POP.DEMOCR.DO"
+        },
+        {
+            "cPais": "4235",
+            "name": "LEBUAN,ILHAS"
+        },
+        {
+            "cPais": "4260",
+            "name": "LESOTO"
+        },
+        {
+            "cPais": "4278",
+            "name": "LETONIA, REPUBLICA DA"
+        },
+        {
+            "cPais": "4316",
+            "name": "LIBANO"
+        },
+        {
+            "cPais": "4340",
+            "name": "LIBERIA"
+        },
+        {
+            "cPais": "4383",
+            "name": "LIBIA"
+        },
+        {
+            "cPais": "4405",
+            "name": "LIECHTENSTEIN"
+        },
+        {
+            "cPais": "4421",
+            "name": "LITUANIA, REPUBLICA DA"
+        },
+        {
+            "cPais": "4456",
+            "name": "LUXEMBURGO"
+        },
+        {
+            "cPais": "4472",
+            "name": "MACAU"
+        },
+        {
+            "cPais": "4499",
+            "name": "MACEDONIA DO NORTE"
+        },
+        {
+            "cPais": "4502",
+            "name": "MADAGASCAR"
+        },
+        {
+            "cPais": "4525",
+            "name": "MADEIRA, ILHA DA"
+        },
+        {
+            "cPais": "4553",
+            "name": "MALASIA"
+        },
+        {
+            "cPais": "4588",
+            "name": "MALAVI"
+        },
+        {
+            "cPais": "4618",
+            "name": "MALDIVAS"
+        },
+        {
+            "cPais": "4642",
+            "name": "MALI"
+        },
+        {
+            "cPais": "4677",
+            "name": "MALTA"
+        },
+        {
+            "cPais": "4723",
+            "name": "MARIANAS DO NORTE"
+        },
+        {
+            "cPais": "4740",
+            "name": "MARROCOS"
+        },
+        {
+            "cPais": "4766",
+            "name": "MARSHALL,ILHAS"
+        },
+        {
+            "cPais": "4774",
+            "name": "MARTINICA"
+        },
+        {
+            "cPais": "4855",
+            "name": "MAURICIO"
+        },
+        {
+            "cPais": "4880",
+            "name": "MAURITANIA"
+        },
+        {
+            "cPais": "4885",
+            "name": "MAYOTTE (ILHAS FRANCESAS)"
+        },
+        {
+            "cPais": "4898",
+            "name": "MAYOTTE (ILHAS FRANCESAS)"
+        },
+        {
+            "cPais": "4901",
+            "name": "MIDWAY, ILHAS"
+        },
+        {
+            "cPais": "4936",
+            "name": "MEXICO"
+        },
+        {
+            "cPais": "4944",
+            "name": "MOLDAVIA, REPUBLICA DA"
+        },
+        {
+            "cPais": "4952",
+            "name": "MONACO"
+        },
+        {
+            "cPais": "4979",
+            "name": "MONGOLIA"
+        },
+        {
+            "cPais": "4985",
+            "name": "MONTENEGRO"
+        },
+        {
+            "cPais": "4995",
+            "name": "MICRONESIA"
+        },
+        {
+            "cPais": "5010",
+            "name": "MONTSERRAT,ILHAS"
+        },
+        {
+            "cPais": "5053",
+            "name": "MOCAMBIQUE"
+        },
+        {
+            "cPais": "5070",
+            "name": "NAMIBIA"
+        },
+        {
+            "cPais": "5088",
+            "name": "NAURU"
+        },
+        {
+            "cPais": "5118",
+            "name": "CHRISTMAS,ILHA (NAVIDAD)"
+        },
+        {
+            "cPais": "5177",
+            "name": "NEPAL"
+        },
+        {
+            "cPais": "5215",
+            "name": "NICARAGUA"
+        },
+        {
+            "cPais": "5258",
+            "name": "NIGER"
+        },
+        {
+            "cPais": "5282",
+            "name": "NIGERIA"
+        },
+        {
+            "cPais": "5312",
+            "name": "NIUE,ILHA"
+        },
+        {
+            "cPais": "5355",
+            "name": "NORFOLK,ILHA"
+        },
+        {
+            "cPais": "5380",
+            "name": "NORUEGA"
+        },
+        {
+            "cPais": "5428",
+            "name": "NOVA CALEDONIA"
+        },
+        {
+            "cPais": "5452",
+            "name": "PAPUA NOVA GUINE"
+        },
+        {
+            "cPais": "5487",
+            "name": "NOVA ZELANDIA"
+        },
+        {
+            "cPais": "5517",
+            "name": "VANUATU"
+        },
+        {
+            "cPais": "5568",
+            "name": "OMA"
+        },
+        {
+            "cPais": "5665",
+            "name": "PACIFICO,ILHAS DO (POSSESSAO DOS EUA)"
+        },
+        {
+            "cPais": "5738",
+            "name": "PAISES BAIXOS (HOLANDA)"
+        },
+        {
+            "cPais": "5754",
+            "name": "PALAU"
+        },
+        {
+            "cPais": "5762",
+            "name": "PAQUISTAO"
+        },
+        {
+            "cPais": "5780",
+            "name": "PALESTINA"
+        },
+        {
+            "cPais": "5800",
+            "name": "PANAMA"
+        },
+        {
+            "cPais": "5860",
+            "name": "PARAGUAI"
+        },
+        {
+            "cPais": "5894",
+            "name": "PERU"
+        },
+        {
+            "cPais": "5932",
+            "name": "PITCAIRN,ILHA"
+        },
+        {
+            "cPais": "5991",
+            "name": "POLINESIA FRANCESA"
+        },
+        {
+            "cPais": "6033",
+            "name": "POLONIA, REPUBLICA DA"
+        },
+        {
+            "cPais": "6076",
+            "name": "PORTUGAL"
+        },
+        {
+            "cPais": "6114",
+            "name": "PORTO RICO"
+        },
+        {
+            "cPais": "6238",
+            "name": "QUENIA"
+        },
+        {
+            "cPais": "6254",
+            "name": "QUIRGUIZ, REPUBLICA"
+        },
+        {
+            "cPais": "6289",
+            "name": "REINO UNIDO"
+        },
+        {
+            "cPais": "6408",
+            "name": "REPUBLICA CENTRO-AFRICANA"
+        },
+        {
+            "cPais": "6475",
+            "name": "REPUBLICA DOMINICANA"
+        },
+        {
+            "cPais": "6602",
+            "name": "REUNIAO, ILHA"
+        },
+        {
+            "cPais": "6653",
+            "name": "ZIMBABUE"
+        },
+        {
+            "cPais": "6700",
+            "name": "ROMENIA"
+        },
+        {
+            "cPais": "6750",
+            "name": "RUANDA"
+        },
+        {
+            "cPais": "6769",
+            "name": "RUSSIA, FEDERACAO DA"
+        },
+        {
+            "cPais": "6777",
+            "name": "SALOMAO, ILHAS"
+        },
+        {
+            "cPais": "6858",
+            "name": "SAARA OCIDENTAL"
+        },
+        {
+            "cPais": "6874",
+            "name": "EL SALVADOR"
+        },
+        {
+            "cPais": "6904",
+            "name": "SAMOA"
+        },
+        {
+            "cPais": "6912",
+            "name": "SAMOA AMERICANA"
+        },
+        {
+            "cPais": "6955",
+            "name": "SAO CRISTOVAO E NEVES,ILHAS"
+        },
+        {
+            "cPais": "6939",
+            "name": "SAO BARTOLOMEU"
+        },
+        {
+            "cPais": "6971",
+            "name": "SAN MARINO"
+        },
+        {
+            "cPais": "6980",
+            "name": "SAO MARTINHO, ILHA DE (PARTE FRANCESA)"
+        },
+        {
+            "cPais": "6998",
+            "name": "SAO MARTINHO, ILHA DE (PARTE HOLANDESA)"
+        },
+        {
+            "cPais": "7005",
+            "name": "SAO PEDRO E MIQUELON"
+        },
+        {
+            "cPais": "7056",
+            "name": "SAO VICENTE E GRANADINAS"
+        },
+        {
+            "cPais": "7102",
+            "name": "SANTA HELENA"
+        },
+        {
+            "cPais": "7153",
+            "name": "SANTA LUCIA"
+        },
+        {
+            "cPais": "7200",
+            "name": "SAO TOME E PRINCIPE, ILHAS"
+        },
+        {
+            "cPais": "7285",
+            "name": "SENEGAL"
+        },
+        {
+            "cPais": "7315",
+            "name": "SEYCHELLES"
+        },
+        {
+            "cPais": "7358",
+            "name": "SERRA LEOA"
+        },
+        {
+            "cPais": "7370",
+            "name": "SERVIA"
+        },
+        {
+            "cPais": "7412",
+            "name": "CINGAPURA"
+        },
+        {
+            "cPais": "7447",
+            "name": "SIRIA, REPUBLICA ARABE DA"
+        },
+        {
+            "cPais": "7480",
+            "name": "SOMALIA"
+        },
+        {
+            "cPais": "7501",
+            "name": "SRI LANKA"
+        },
+        {
+            "cPais": "7544",
+            "name": "ESSUATINI"
+        },
+        {
+            "cPais": "7552",
+            "name": "SVALBARD E JAN MAYERN"
+        },
+        {
+            "cPais": "7560",
+            "name": "AFRICA DO SUL"
+        },
+        {
+            "cPais": "7595",
+            "name": "SUDAO"
+        },
+        {
+            "cPais": "7600",
+            "name": "SUDÃO DO SUL"
+        },
+        {
+            "cPais": "7641",
+            "name": "SUECIA"
+        },
+        {
+            "cPais": "7676",
+            "name": "SUICA"
+        },
+        {
+            "cPais": "7706",
+            "name": "SURINAME"
+        },
+        {
+            "cPais": "7722",
+            "name": "TADJIQUISTAO, REPUBLICA DO"
+        },
+        {
+            "cPais": "7765",
+            "name": "TAILANDIA"
+        },
+        {
+            "cPais": "7803",
+            "name": "TANZANIA, REP.UNIDA DA"
+        },
+        {
+            "cPais": "7811",
+            "name": "TERRAS AUSTRAIS E ANTARTICAS FRANCESAS"
+        },
+        {
+            "cPais": "7820",
+            "name": "TERRITORIO BRIT.OC.INDICO"
+        },
+        {
+            "cPais": "7838",
+            "name": "DJIBUTI"
+        },
+        {
+            "cPais": "7889",
+            "name": "CHADE"
+        },
+        {
+            "cPais": "7919",
+            "name": "TCHECA, REPUBLICA"
+        },
+        {
+            "cPais": "7951",
+            "name": "TIMOR LESTE"
+        },
+        {
+            "cPais": "8001",
+            "name": "TOGO"
+        },
+        {
+            "cPais": "8052",
+            "name": "TOQUELAU,ILHAS"
+        },
+        {
+            "cPais": "8109",
+            "name": "TONGA"
+        },
+        {
+            "cPais": "8150",
+            "name": "TRINIDAD E TOBAGO"
+        },
+        {
+            "cPais": "8206",
+            "name": "TUNISIA"
+        },
+        {
+            "cPais": "8230",
+            "name": "TURCAS E CAICOS,ILHAS"
+        },
+        {
+            "cPais": "8249",
+            "name": "TURCOMENISTAO, REPUBLICA DO"
+        },
+        {
+            "cPais": "8273",
+            "name": "TURQUIA"
+        },
+        {
+            "cPais": "8281",
+            "name": "TUVALU"
+        },
+        {
+            "cPais": "8311",
+            "name": "UCRANIA"
+        },
+        {
+            "cPais": "8338",
+            "name": "UGANDA"
+        },
+        {
+            "cPais": "8451",
+            "name": "URUGUAI"
+        },
+        {
+            "cPais": "8478",
+            "name": "UZBEQUISTAO, REPUBLICA DO"
+        },
+        {
+            "cPais": "8486",
+            "name": "VATICANO, EST.DA CIDADE DO"
+        },
+        {
+            "cPais": "8508",
+            "name": "VENEZUELA"
+        },
+        {
+            "cPais": "8583",
+            "name": "VIETNA"
+        },
+        {
+            "cPais": "8630",
+            "name": "VIRGENS,ILHAS (BRITANICAS)"
+        },
+        {
+            "cPais": "8664",
+            "name": "VIRGENS,ILHAS (E.U.A.)"
+        },
+        {
+            "cPais": "8702",
+            "name": "FIJI"
+        },
+        {
+            "cPais": "8753",
+            "name": "WALLIS E FUTUNA, ILHAS"
+        },
+        {
+            "cPais": "8737",
+            "name": "WAKE, ILHA"
+        },
+        {
+            "cPais": "8885",
+            "name": "CONGO, REPUBLICA DEMOCRATICA DO"
+        },
+        {
+            "cPais": "8907",
+            "name": "ZAMBIA"
+        }
+    ]
+}
