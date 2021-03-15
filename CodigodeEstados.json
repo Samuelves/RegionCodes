@@ -1,0 +1,112 @@
+{
+    "Página1": [
+        {
+            "code": "12",
+            "uf": "Acre"
+        },
+        {
+            "code": "27",
+            "uf": "Alagoas"
+        },
+        {
+            "code": "16",
+            "uf": "Amapá"
+        },
+        {
+            "code": "13",
+            "uf": "Amazonas"
+        },
+        {
+            "code": "29",
+            "uf": "Bahia"
+        },
+        {
+            "code": "23",
+            "uf": "Ceará"
+        },
+        {
+            "code": "53",
+            "uf": "Distrito Federal"
+        },
+        {
+            "code": "32",
+            "uf": "Espírito Santo"
+        },
+        {
+            "code": "52",
+            "uf": "Goiás"
+        },
+        {
+            "code": "21",
+            "uf": "Maranhão"
+        },
+        {
+            "code": "51",
+            "uf": "Moto Grosso"
+        },
+        {
+            "code": "50",
+            "uf": "Moto Grosso do Sul"
+        },
+        {
+            "code": "31",
+            "uf": "Minas Gerais"
+        },
+        {
+            "code": "15",
+            "uf": "Pará"
+        },
+        {
+            "code": "25",
+            "uf": "Paraíba"
+        },
+        {
+            "code": "41",
+            "uf": "Paraná"
+        },
+        {
+            "code": "26",
+            "uf": "Pernambuco"
+        },
+        {
+            "code": "22",
+            "uf": "Piauí"
+        },
+        {
+            "code": "24",
+            "uf": "Rio Grande do Norte"
+        },
+        {
+            "code": "43",
+            "uf": "Rio Grande do Sul"
+        },
+        {
+            "code": "33",
+            "uf": "Rio de Janeiro"
+        },
+        {
+            "code": "11",
+            "uf": "Rondônia"
+        },
+        {
+            "code": "14",
+            "uf": "Roraima"
+        },
+        {
+            "code": "42",
+            "uf": "Santa Catarina"
+        },
+        {
+            "code": "35",
+            "uf": "São Paulo"
+        },
+        {
+            "code": "28",
+            "uf": "Sergipe"
+        },
+        {
+            "code": "17",
+            "uf": "Tocantins"
+        }
+    ]
+}
